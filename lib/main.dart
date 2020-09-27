@@ -3,7 +3,7 @@ import 'package:flutter/rendering.dart';
 import 'package:works/choice_page.dart';
 
 void main() {
-  debugPaintSizeEnabled = true;
+  debugPaintSizeEnabled = false;
   runApp(MyApp());
 }
 

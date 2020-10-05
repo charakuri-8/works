@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:works/choice_page.dart';
+import 'package:works/view/login_page.dart';
 
 void main() {
   debugPaintSizeEnabled = false;
@@ -11,11 +11,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'WORKS',
       theme: ThemeData(
         fontFamily: 'MPLUSRounded1c',
       ),
-      home: ChoicePage(),
+      home: LoginPage(),
     );
   }
 }

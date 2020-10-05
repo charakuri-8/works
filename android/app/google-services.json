@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513537707759",
+    "firebase_url": "https://works-92689.firebaseio.com",
+    "project_id": "works-92689",
+    "storage_bucket": "works-92689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513537707759:android:2e5ccb27f9efd1880d551a",
+        "android_client_info": {
+          "package_name": "com.charakuri8.works"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513537707759-fsrrrmfbvufs7csgl218k5r0503qrhu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1egzY4fuWMw2Tl2E9G0m9rnQ2Q64MBcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513537707759-fsrrrmfbvufs7csgl218k5r0503qrhu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513537707759-nsojq4nbodg8b0qqbfuv3ktpaphjcjug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.charakuri8.works"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
